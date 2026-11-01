@@ -1,0 +1,9 @@
+attribute,group,n,actual_leave_%,flag_rate_%,recall,precision
+Gender,Female,116,13.8,23.3,0.562,0.333
+Gender,Male,178,17.4,15.2,0.419,0.481
+Marital status,Married,133,13.5,15.0,0.389,0.35
+Marital status,Divorced,64,6.2,10.9,0.5,0.286
+Marital status,Single,97,25.8,27.8,0.52,0.481
+Age band,<30,68,25.0,36.8,0.529,0.36
+Age band,40+,101,15.8,9.9,0.375,0.6
+Age band,30-39,125,11.2,15.2,0.5,0.368
